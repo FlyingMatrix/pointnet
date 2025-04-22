@@ -1,2 +1,2 @@
 # pointnet
-PointNet implementation with PyTorch for point cloud classification and segmentation
+PointNet implementation with pytorch for point cloud classification and segmentation
